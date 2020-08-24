@@ -1,0 +1,18 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: helvelica;
+  background-image: url(http://sf.co.ua/15/10/wallpaper-11062c.jpg);
+  background-repeat: no_repeat;
+  background-size: auto;
+  color: white;
+}
+
+nav
+{
+  background-color:#b2cfca;
+  padding: apx;
+  color: red;
+}
